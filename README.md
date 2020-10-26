@@ -1,2 +1,4 @@
-# phone_challenge
-Scripts for calculating scores at the end of our phone time reduction competition
+# Phone Challenge
+
+This document will describe how the algorithm for calculating the prize money is
+calculated.
